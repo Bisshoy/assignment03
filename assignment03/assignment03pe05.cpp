@@ -29,7 +29,6 @@ int main()
     float arr2_userNum;
     int arr1_index = 1;
     int arr2_index = 1;
-    int a = 5;
 
     // Populate first array 
     for (auto& x : arr1) {
